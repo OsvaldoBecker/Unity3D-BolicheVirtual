@@ -23,7 +23,7 @@
 Developed using an Orbbec Astra Pro sensor and Nuitrack software.
 
 #### Softwares:
-- Unity 3D
+- Unity 3D with C#
 - Blender
 - Fuse
 - Paint.Net
